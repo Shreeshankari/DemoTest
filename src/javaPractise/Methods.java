@@ -8,6 +8,10 @@ public class Methods {
 	 System.out.println("push from personA updates");
 	 System.out.println("push from personA updates1");
 	 System.out.println("push from personA updates2");
+	 
+	 System.out.println("push from personA updates3");
+	 System.out.println("push from personA updates4");
+	 
 	 return "Pass";
  }
 	

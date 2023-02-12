@@ -9,8 +9,9 @@ System.out.println("Page1");
 System.out.println("Page2");
 System.out.println("Page3");
 
-
-
+System.out.println("Page4");
+System.out.println("Page5");
+System.out.println("Page6");
 Methods m = new Methods();
 //methodsobject.methodname
 System.out.println(m.validateHeader());
